@@ -1,0 +1,9 @@
+matplotlib
+numba
+numpy
+pandas
+requests
+rise
+sklearn
+sodapy
+sqlalchemy
