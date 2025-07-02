@@ -1,4 +1,5 @@
 matplotlib
+nbclassic
 numba
 numpy
 pandas
